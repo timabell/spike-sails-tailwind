@@ -1,11 +1,14 @@
 # hellosails
 
-a [Sails v1](https://sailsjs.com) application
+a [Sails v1](https://sailsjs.com) application + TailwindCSS with PostCSS
+
+As per https://github.com/tailwindlabs/tailwindcss-setup-examples/pull/97
 
 
 ### Links
 
 + [Sails framework documentation](https://sailsjs.com/get-started)
++ [TailwindCSS with PostCSS](https://tailwindcss.com/docs/installation#process-your-css-with-tailwind)
 + [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
 + [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
 + [Community support options](https://sailsjs.com/support)
