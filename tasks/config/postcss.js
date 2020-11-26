@@ -7,7 +7,7 @@ module.exports = function (grunt) {
     },
     dist: {
       expand: true,
-      cwd: "assets/styles/tailwindcss",
+      cwd: "postcss",
       src: ["tailwind.css"],
       dest: ".tmp/public/styles",
       ext: ".css",
